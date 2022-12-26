@@ -1,0 +1,7 @@
+C:\Users\ariel\source\repos\PracticaTrece_ejer_01\PracticaTrece_ejer_01\obj\Debug\PracticaTrece_ejer_01.csprojAssemblyReference.cache
+C:\Users\ariel\source\repos\PracticaTrece_ejer_01\PracticaTrece_ejer_01\obj\Debug\PracticaTrece_ejer_01.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\PracticaTrece_ejer_01\PracticaTrece_ejer_01\bin\Debug\PracticaTrece_ejer_01.exe.config
+C:\Users\ariel\source\repos\PracticaTrece_ejer_01\PracticaTrece_ejer_01\bin\Debug\PracticaTrece_ejer_01.exe
+C:\Users\ariel\source\repos\PracticaTrece_ejer_01\PracticaTrece_ejer_01\bin\Debug\PracticaTrece_ejer_01.pdb
+C:\Users\ariel\source\repos\PracticaTrece_ejer_01\PracticaTrece_ejer_01\obj\Debug\PracticaTrece_ejer_01.exe
+C:\Users\ariel\source\repos\PracticaTrece_ejer_01\PracticaTrece_ejer_01\obj\Debug\PracticaTrece_ejer_01.pdb
